@@ -1,0 +1,15 @@
+.links:link {
+  color: white;
+  margin-left: 22%;
+  font-style: italic;
+  text-underline-offset: 2px;
+}
+
+.links:visited {
+  color: white;
+}
+
+.links:hover {
+  text-decoration-thickness: 1px;
+  text-decoration-style: dashed;
+}
